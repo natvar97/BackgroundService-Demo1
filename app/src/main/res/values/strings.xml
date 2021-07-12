@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BackgroundService-Demo1</string>
+
+    <string name="local_service_started">Local service started</string>
+</resources>

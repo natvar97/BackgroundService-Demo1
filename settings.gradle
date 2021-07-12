@@ -1,0 +1,2 @@
+rootProject.name = "BackgroundService-Demo1"
+include ':app'
